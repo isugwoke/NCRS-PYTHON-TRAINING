@@ -87,6 +87,21 @@ print(name2.lower())
 # capitalize - Returns the  string with the first letter capitalized
 print(name.capitalize())
 
+# Accepting user input
+# print(input("Enter your name "))
+
+# user_name = input("Enter your name ")
+# next_of_kin = input("Enter next of kin's name: ")
+
+# print("Good morning " + user_name + " Your next of kin is " + next_of_kin)
+
+a = int(input("Enter a: "))
+b = int(input ("Enter b: ")) 
+
+c = a + b
+
+print(c)
+
 
 
 

@@ -3,4 +3,4 @@
 3. execute the formula: d = a+ (b - c) raised to the power of 2
 3. print the following output:
 
-"Hello PYTHON TEACHER the solution to the problem is 20" 
+"Hello PYTHON TEACHER the solution to the problem is {value of d}" 
